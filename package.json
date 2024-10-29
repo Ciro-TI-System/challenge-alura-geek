@@ -116,8 +116,7 @@
     "yargs-parser": "^21.1.1"
   },
   "scripts": {
-    "start": "json-server --watch db.json",
-    "vercel-build": "echo 'Build completo!'" 
+    "start": "json-server --watch db.json" 
   },
   "keywords": [],
   "author": "",
