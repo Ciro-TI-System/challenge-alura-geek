@@ -6,21 +6,15 @@
 
 ## Visualização do Projeto
 
-### Desktop
-![Desktop](.github/Challenge-Alura-Geek-Home.png)
+| Desktop                                                                                       |
+| --------------------------------------------------------------------------------------------- |
+| ![Desktop](.github/Challenge-Alura-Geek-Home.png)                                              |
 
----
+| Tablet                                 | Mobile                                                 |
+| -------------------------------------- | ------------------------------------------------------ |
+| ![Tablet](.github/Challenge-Alura-Geek-Tablet.png) | ![Mobile 1](.github/Challenge-Alura-Geek-Mobile1.png) <br> ![Mobile 2](.github/Challenge-Alura-Geek-Mobile2.png) |
 
-### Tablet e Mobile
-<div style="display: flex; justify-content: space-around; flex-direction: row; flex-wrap: nowrap;">
-  <p>
-    <img src=".github/Challenge-Alura-Geek-Tablet.png" width="265px">
-  </p>
-  <div style="display: flex; flex-direction: column;">
-    <img src=".github/Challenge-Alura-Geek-Mobile1.png" width="150px">
-    <img src=".github/Challenge-Alura-Geek-Mobile2.png" width="150px">
-  </div>
-</div>
+
 
 <br>
 
