@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "name": "Caixa de Som",
+      "price": "300,00",
+      "image": "https://img.freepik.com/psd-gratuitas/modelo-de-banner-de-midia-social-de-super-venda-na-sexta-feira-negra_106176-1502.jpg?ga=GA1.1.1676284404.1729603704&semt=ais_hybrid",
+      "id": 3
+    },
+    {
+      "name": "Cadeira para Sala",
+      "price": "800,00",
+      "image": "https://img.freepik.com/psd-gratuitas/modelo-de-banner-de-midia-social-de-venda-de-moveis_120329-2260.jpg?ga=GA1.1.1676284404.1729603704&semt=ais_hybrid",
+      "id": 4
+    },
+    {
+      "name": "Mouse sem fio",
+      "price": "120,00",
+      "image": "https://img.freepik.com/psd-gratuitas/modelo-de-banner-de-midia-social-de-super-venda-na-sexta-feira-negra_106176-1482.jpg?ga=GA1.1.1676284404.1729603704&semt=ais_hybrid",
+      "id": 6
+    },
+    {
+      "name": "Relógio Ana lógico",
+      "price": "600,00",
+      "image": "https://img.freepik.com/psd-gratuitas/modelo-de-banner-de-midia-social-de-super-venda-na-sexta-feira-negra_106176-1477.jpg?ga=GA1.1.1676284404.1729603704&semt=ais_hybrid",
+      "id": 7
+    },
+    {
+      "name": "Bolsa Feminina",
+      "price": "150,00",
+      "image": "https://img.freepik.com/psd-gratuitas/modelo-de-banner-de-midia-social-de-super-venda-na-sexta-feira-negra_120329-1078.jpg?ga=GA1.1.1676284404.1729603704&semt=ais_hybrid",
+      "id": 8
+    },
+    {
+      "name": "Caixas de Som",
+      "price": "750,00",
+      "image": "https://img.freepik.com/psd-gratuitas/venda-especial-de-sexta-feira-negra-modelo-de-design-de-posts-de-midia-social_47987-24438.jpg?ga=GA1.1.1676284404.1729603704&semt=ais_hybrid",
+      "id": 9
+    },
+    {
+      "name": "Controle Gamer",
+      "price": "125,00",
+      "image": "https://img.freepik.com/psd-gratuitas/modelo-de-banner-de-midia-social-de-super-venda-na-sexta-feira-negra_106176-1472.jpg?ga=GA1.1.1676284404.1729603704&semt=ais_hybrid",
+      "id": 10
+    },
+    {
+      "name": "Relógio Digital",
+      "price": "320,00",
+      "image": "https://img.freepik.com/psd-gratuitas/modelo-de-banner-de-midia-social-de-super-venda-na-sexta-feira-negra_106176-1496.jpg?ga=GA1.1.1676284404.1729603704&semt=ais_hybrid",
+      "id": 11
+    },
+    {
+      "name": "Máquina Fotográfica",
+      "price": "1.320,00",
+      "image": "https://img.freepik.com/psd-gratuitas/cyber-monday-super-sale-modelo-de-design-de-postagem-de-midia-social_47987-17931.jpg?ga=GA1.1.1676284404.1729603704&semt=ais_hybrid",
+      "id": 12
+    },
+    {
+      "name": "Teclado para PC",
+      "price": "220,00",
+      "image": "https://img.freepik.com/psd-gratuitas/cyber-monday-super-sale-banner-de-midia-social-ou-modelo-de-postagem_106176-3258.jpg?ga=GA1.1.1676284404.1729603704&semt=ais_hybrid",
+      "id": 13
+    },
+    {
+      "name": "Notebook Gamer",
+      "price": "5.298,00",
+      "image": "https://img.freepik.com/psd-gratuitas/black-friday-gaming-pc-social-media-post-design-template-template-de-design-de-postagem-de-midia-social_47987-25299.jpg?ga=GA1.1.1676284404.1729603704&semt=ais_hybrid",
+      "id": 14
+    },
+    {
+      "name": "Tênis Preto",
+      "price": "450,00",
+      "image": "https://img.freepik.com/psd-gratuitas/design-exclusivo-de-modelo-de-postagem-de-midia-social-de-tenis_505751-4682.jpg?ga=GA1.1.1676284404.1729603704&semt=ais_hybrid",
+      "id": 15
+    },
+    {
+      "name": "Headset Gamer",
+      "price": "365,00",
+      "image": "https://img.freepik.com/psd-gratuitas/venda-de-produtos-da-sexta-feira-negra-modelo-de-design-de-postagem-de-midia-social_47987-24557.jpg?ga=GA1.1.1676284404.1729603704&semt=ais_hybrid",
+      "id": 16
+    }
+  ]
+}
