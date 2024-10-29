@@ -13,12 +13,10 @@
 
 ### Tablet e Mobile
 <div style="display: flex; justify-content: space-around; flex-direction: row; flex-wrap: nowrap;">
-  <div>
-    <p>Tablet</p>
+  <p>
     <img src=".github/Challenge-Alura-Geek-Tablet.png" width="265px">
-  </div>
+  </p>
   <div style="display: flex; flex-direction: column;">
-    <p>Mobile</p>
     <img src=".github/Challenge-Alura-Geek-Mobile1.png" width="150px">
     <img src=".github/Challenge-Alura-Geek-Mobile2.png" width="150px">
   </div>
