@@ -4,7 +4,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Função para buscar produtos da API
   function fetchProducts() {
-    fetch("http://localhost:3000/products")
+    // fetch("http://localhost:3000/products")
+    fetch("/api/db/products")
       .then((response) => response.json())
       .then((products) => {
         // Se não houver produtos, mostrar a mensagem
@@ -39,7 +40,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Função para adicionar novo produto
   function addProduct(product) {
-    fetch("http://localhost:3000/products", {
+    // fetch("http://localhost:3000/products", {
+    fetch("/api/db/products", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -53,7 +55,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Função para deletar um produto
   window.deleteProduct = function (id) {
-    fetch(`http://localhost:3000/products/${id}`, {
+    // fetch(`http://localhost:3000/products/${id}`, {
+    fetch(`/api/db/products/${id}`, {
       method: "DELETE",
     })
       .then(() => {
