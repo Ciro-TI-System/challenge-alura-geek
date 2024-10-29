@@ -12,7 +12,7 @@
 ---
 
 ### Tablet e Mobile
-<div style="display: flex; justify-content: space-around; flex-direction: row;">
+<div style="display: flex; justify-content: space-evenly; flex-direction: row; flex-wrap: nowrap;">
   <div>
     <p>Tablet</p>
     <img src=".github/Challenge-Alura-Geek-Tablet.png" width="265px">
