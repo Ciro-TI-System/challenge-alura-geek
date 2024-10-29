@@ -4,31 +4,23 @@
 
 <br>
 
-<h3>Desktop</h3>
-<p>
-  <img src=".github/Challenge-Alura-Geek-Home.png" width="95%">
-</p>
+## Visualização do Projeto
 
-<br>
+### Desktop
+![Desktop](.github/Challenge-Alura-Geek-Home.png)
 
-<div style="display: flex;">
+---
 
+### Tablet e Mobile
+<div style="display: flex; justify-content: space-around;">
   <div>
-    <h3>Tablet</h3>
-    <p>
-      <img src=".github/Challenge-Alura-Geek-Tablet.png" width="45%">
-    </p>
+    <p>Tablet</p>
+    <img src=".github/Challenge-Alura-Geek-Tablet.png" width="265px">
   </div>
-
-  <div style="display: flex; flex-direction: column">
-    <h3>Mobile</h3>
-    <p>
-      <img src=".github/Challenge-Alura-Geek-Mobile1.png" width="45%">
-    </p>
-  </br>
-    <p>
-      <img src=".github/Challenge-Alura-Geek-Mobile2.png" width="45%">
-    </p>
+  <div style="display: flex; flex-direction: column;">
+    <p>Mobile</p>
+    <img src=".github/Challenge-Alura-Geek-Mobile1.png" width="150px">
+    <img src=".github/Challenge-Alura-Geek-Mobile2.png" width="150px">
   </div>
 </div>
 
