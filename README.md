@@ -6,15 +6,13 @@
 
 ## Visualização do Projeto
 
-| Desktop                                                                                       |
-| --------------------------------------------------------------------------------------------- |
-| ![Desktop](.github/Challenge-Alura-Geek-Home.png)                                              |
+| Desktop                                           |
+| ------------------------------------------------- |
+| ![Desktop](.github/Challenge-Alura-Geek-Home.png) |
 
-| Tablet                                 | Mobile                                                 |
-| -------------------------------------- | ------------------------------------------------------ |
+| Tablet                                             | Mobile                                                                                                           |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | ![Tablet](.github/Challenge-Alura-Geek-Tablet.png) | ![Mobile 1](.github/Challenge-Alura-Geek-Mobile1.png) <br> ![Mobile 2](.github/Challenge-Alura-Geek-Mobile2.png) |
-
-
 
 <br>
 
@@ -29,6 +27,30 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - **[NPM](https://www.npmjs.com/)**
 - **[jason-server](https://www.npmjs.com/package/json-server)**
 - **[freepik](https://br.freepik.com/search?file_type=jpg&format=search&last_filter=page&last_value=2&orientation=square&page=2&query=Produtos&selection=1#uuid=8653c9cb-d531-4f51-b602-9b227b959bb4)** Site para adicionar os links das imagens.
+
+<br>
+
+## 🚀 Como Utilizar
+
+- Instale o Node.js: <br>
+  `https://nodejs.org/`
+- Instale o json-server globalmente:<br>
+  `npm install -g json-server`
+- Clone o repositório <br>
+- No diretório do projeto instale as dependências: <br>
+  `npm install`
+- Instale o json-server como uma dependência de desenvolvimento: <br>
+  `npm install json-server -D`
+- Adicione um script no seu package.json para facilitar a execução do json-server:
+
+```json
+"scripts": {
+  "start": "json-server --watch db.json"
+}
+```
+
+- Agora, você pode iniciar o servidor apenas com:
+  `npm start`
 
 <br>
 
